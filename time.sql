@@ -1,1 +1,1 @@
-select systimestamp mydate from dual;
+select systimestamp mytimestamp from dual;
